@@ -8,3 +8,5 @@ Future plans include showing custom icons for each location logged so patterns c
 This app was focused on helping people through therapy or for older people whose children want to understand the emotional health of their parents.
 
 I have also included on the about page the code to integrate google+.
+
+Currently it uses my own API Key, so please only use mine if you are trying it out or testing.  Update with yours when you can by going to the Google API Dashboard and creating your own key.
