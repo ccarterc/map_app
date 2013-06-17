@@ -12,3 +12,9 @@ I have also included on the about page the code to integrate google+.
 Currently it uses my own API Key, so please only use mine if you are trying it out or testing.  Update with yours when you can by going to the Google API Dashboard and creating your own key.
 
 User registration utilizes blowfish encryption, the newer one that uses the "y" key.
+
+
+
+
+
+CURRENTLY MISSING "images" folder, the custom map icon, favicon, and ajax loader gif.  Replace those with whatever you want and should work fine.
