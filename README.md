@@ -17,4 +17,4 @@ User registration utilizes blowfish encryption, the newer one that uses the "y" 
 
 
 
-CURRENTLY MISSING "images" folder, the custom map icon, favicon, and ajax loader gif.  Replace those with whatever you want and should work fine.
+CURRENTLY MISSING "images" folder, the custom map icon, favicon, "icons-18-white.png", and ajax loader gif.  Replace those with whatever you want and should work fine.
